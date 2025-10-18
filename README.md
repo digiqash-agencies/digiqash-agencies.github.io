@@ -77,6 +77,35 @@
       document.getElementById("popup").style.display = "none";
       document.getElementById("overlay").style.display = "none";
     }
+    /*🌈 Top banner */
+    .top-banner {
+      background: linear-gradient(90deg, #7b2ff7, #f107a3);
+      color: white;
+      text-align: center;
+      padding: 20px 10px;
+      font-size: 20px;
+      font-weight: bold;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    }
+
+    .top-banner a {
+      background: white;
+      color: #7b2ff7;
+      padding: 10px 20px;
+      border-radius: 25px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-left: 10px;
+      box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+      transition: all 0.3s ease;
+    }
+
+    .top-banner a:hover {
+      background: #f1f1f1;
+    }
   </script>
 </body>
 </html>
