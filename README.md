@@ -55,7 +55,13 @@
       <h1>WELCOME TO DIGIQASH AGENCIES</h1>
       <P>Digiqash agencies is an online platfom that allows members to make some cool qash at the comfort of their zone.our aim is to help youths,jobless ,students and employed youths to make an extra income through smartphone</P>
       <a 
-        href="https://qashhub.com/register.php?ref=Savieh" target="_blank">
+        href="https://qashhub.com/register.php?ref=Savieh" target="_blank"
+        style="background-color:#4CAF50;
+        Color:white;
+        padding:10px 20px;
+        text-decoration:none;
+        border-radius:8px;
+        font-size:16px;">
         <button>REGISTER NOW</button>
         </a>
       </div>
