@@ -1,5 +1,5 @@
 # digiqash-agencies.github.io
-<!DOCTYPE HTML>
+<DOCTYPE HTML>
 <Html>
   <Head>
   <Title>WELCOME TO DIGIQASH AGENCIES</Title>
