@@ -4,8 +4,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Digiqash Agencies — Reliable local cash services</title>
-  <meta name="description" content="Digiqash Agencies — fast, secure cash & payments across Kenya, Ghana, Malawi, and Cameroon." />
+  <title>Digiqash Agencies</title>
+  <meta name="description" content="Digiqash Agencies — FAST .SECURE.RELIABLE" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
   <style>
@@ -120,7 +120,7 @@
         <div class="logo">Dq</div>
         <div>
           <h1>Digiqash Agencies</h1>
-          <div class="muted" style="font-size:13px">Local payments & cash services — Kenya • Ghana • Malawi • Cameroon</div>
+          <div class="muted" style="font-size:13px">Welcome to digiqash agencies</div>
         </div>
       </div>
 
@@ -133,17 +133,17 @@
 
     <section class="hero" aria-labelledby="hero-title">
       <div>
-        <h2 id="hero-title">Digiqash Agencies — Fast. Secure. Local.</h2>
-        <p>We provide trusted cash-in/cash-out, bill payments and agent services across Kenya, Ghana, Malawi and Cameroon. Built for agents, businesses and customers who need quick, reliable access to cash and digital payment rails.</p>
+        <h2 id="hero-title">Digiqash Agencies — Fast. Secure. Reliable.</h2>
+        <p>We provide trusted cash-in/cash-out and agent services worldwide.On this website youll get more infromation about  Kenya, Ghana, Malawi and Cameroon. Build to help jobless, employed ,students and single moms make an extra income at the comfprt of their zones.</p>
 
         <div class="cta-row">
-          <button class="btn" onclick="scrollToSection('contact')">Become an Agent</button>
+          <button class="btn" onclick="scrollToSection('contact')">Get started</button>
           <button class="outline" onclick="scrollToSection('countries')">See Countries</button>
         </div>
 
         <div style="margin-top:18px" class="muted">
           <strong>Why Digiqash?</strong>
-          <div style="margin-top:8px">Secure settlements • Local support • Low fees • Fast onboarding</div>
+          <div style="margin-top:8px">Secure payments • Low fees</div>
         </div>
       </div>
 
