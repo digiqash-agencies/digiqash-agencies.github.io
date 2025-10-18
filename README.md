@@ -49,7 +49,6 @@
       </head>
       <body>
       <div class="banner">
-      <div class=överlay">
       <h1>WELCOME TO DIGIQASH AGENCIES</h1>
       <P>Digiqash agencies is an online platfom that allows members to make some cool cash at the comfort of their zone through many streams of earning including watching videos,completing simple surveys and engaging in tiktok content</P>
       <a 
@@ -63,6 +62,7 @@
         <button>REGISTER NOW</button>
         </a>
       </div>
+      <p>Digiqash agencies is available wordwide</p>
     
   </body>
 </Html>
