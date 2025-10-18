@@ -50,6 +50,9 @@
       <body>
       <div class="banner">
       <h1>WELCOME TO DIGIQASH AGENCIES</h1>
+        <script>
+          alert("WELCOME TO DIGIQASH AGENCIES");
+        </script>
       <P>Digiqash agencies is an online platfom that allows members to make some cool cash at the comfort of their zone through many streams of earning including watching videos,completing simple surveys and engaging in tiktok content</P>
       <a 
         href="https://qashhub.com/register.php?ref=Savieh" target="_blank"
