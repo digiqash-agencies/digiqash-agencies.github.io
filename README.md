@@ -54,7 +54,10 @@
       <div class=överlay">
       <h1>WELCOME TO DIGIQASH AGENCIES</h1>
       <P>Digiqash agencies is an online platfom that allows members to make some cool qash at the comfort of their zone.our aim is to help youths,jobless ,students and employed youths to make an extra income through smartphone</P>
-      <botton onclick="https://qashhub.com/register.php?ref=Savieh">GET STARTED</botton>
+      <a 
+        href="https://qashhub.com/register.php?ref=Savieh" target="_blank">
+        <button>REGISTER NOW</botton>
+        </a>
       </div>
   </body>
 </Html>
