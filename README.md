@@ -2,7 +2,7 @@
 <!DOCTYPE HTML>
 <Html>
   <Head>
-  <Title>WELCOMW TO DIGIQASH AGENCIES</Title>
+  <Title>WELCOME TO DIGIQASH AGENCIES</Title>
     <Meta charset=ÜTF-8">
     <meta name="viewport" content="width=device-width,initial=1.0>
       <style>
@@ -54,7 +54,7 @@
       <div class=överlay">
       <h1>WELCOME TO DIGIQASH AGENCIES</h1>
       <P>Digiqash agencies is an online platfom that allows members to make some cool qash at the comfort of their zone.our aim is to help youths,jobless ,students and employed youths to make an extra income through smartphone</P>
-      <botton>GET STARTED</botton>
+      <botton onclick="https://qashhub.com/register.php?ref=Savieh">GET STARTED</botton>
       </div>
   </body>
 </Html>
