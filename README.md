@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>DigiQash Agencies</title>
 
   <!-- Use link for Google font (optional) -->
@@ -265,7 +265,7 @@
                   <p>To be officially launched on <strong>1st November</strong> at 9:00 am.</p>
                   <p>Once you register your account, you can earn over XAF 11,000 daily by completing simple tasks.</p>
                   <p>To join, register and activate your account with <strong>XAF 2900 (one-time)</strong>.</p>
-                  <a class="whatsapp-button" href="https://wa.me/237611000000" target="_blank" rel="noopener">WhatsApp us</a>
+                  <a class="whatsapp-button" href="https://wa.me/254117410138" target="_blank" rel="noopener">WhatsApp us</a>
                 </div>`,
 
       ghana: `<div class="summary-card">
