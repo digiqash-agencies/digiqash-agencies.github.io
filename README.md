@@ -202,6 +202,7 @@
       const m = userMessage.trim().toLowerCase();
       if(!m) return "Please type something.";
       if(m.includes("hello") || m.includes("hi")) return "Hello there 🤗 — how can I help you today?";
+      if(m.includes("withdraw") || m.includes("profits")) return "you can withdraw your money to the number you used for registration anytime or anyday?";
       if(m.includes("how are you")) return "I'm doing well, thanks for asking!";
       if(m.includes("register") || m.includes("join")) return "Click the 'Register Here' button to start registration (WhatsApp link).";
       return "I'm not sure how to reply. Please reach out on the WhatsApp button or try a different question.";
